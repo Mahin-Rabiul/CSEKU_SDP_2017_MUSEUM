@@ -1,0 +1,2 @@
+Import the database 'museum.sql' from database directory. 
+From the web directory copy museum file to your localhost and run http://localhost/museum/index.php
